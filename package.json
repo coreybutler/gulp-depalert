@@ -1,6 +1,6 @@
 {
   "name": "gulp-depalert",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Identify outdated dependencies in projects via a console warning/report.",
   "main": "index.js",
   "directories": {
